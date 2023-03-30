@@ -43,9 +43,9 @@ in_hull(dataset,pointset)
 
 For more information on the functions provided, see the R help files. 
 
-For examples of the functions being used, see the _Cplusplus_linking_with_R_Assessment_ jupyer notebook.
+For examples of the functions being used, see the [linking C++ and R](Cplusplus_linking_with_R_Assessment) jupyer notebook.
 
-Additional implementations of the Jarvis-March algorithm in Python and C++ can be found in the _Python_Assessment_ and _Cplusplus_Assessment_ jupyter notebooks respectively. A comparision of the three implementations can be found in the _Cplusplus_linking_with_R_Assessment_ jupyer notebook.
+Additional implementations of the Jarvis-March algorithm in Python and C++ can be found in the [Python](Python_Assessment) and [C++](Cplusplus_Assessment) jupyter notebooks respectively. A comparision of the three implementations can be found in the [linking C++ and R](Cplusplus_linking_with_R_Assessment) jupyter notebook.
 
 All three implementations of the Jarvis-March algorithm are based on the following pseudocode:
 1) Let the dataset be $X$.
